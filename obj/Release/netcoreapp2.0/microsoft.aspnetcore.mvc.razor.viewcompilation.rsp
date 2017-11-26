@@ -1,0 +1,12 @@
+C:\Users\craig\Desktop\aspnetcoreapp
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=aspnetcoreapp
+--content-root=C:\Users\craig\Desktop\aspnetcoreapp
+--file=C:\Users\craig\Desktop\aspnetcoreapp\Pages\About.cshtml
+--file=C:\Users\craig\Desktop\aspnetcoreapp\Pages\Contact.cshtml
+--file=C:\Users\craig\Desktop\aspnetcoreapp\Pages\Error.cshtml
+--file=C:\Users\craig\Desktop\aspnetcoreapp\Pages\Index.cshtml
+--file=C:\Users\craig\Desktop\aspnetcoreapp\Pages\_Layout.cshtml
+--file=C:\Users\craig\Desktop\aspnetcoreapp\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\craig\Desktop\aspnetcoreapp\Pages\_ViewImports.cshtml
+--file=C:\Users\craig\Desktop\aspnetcoreapp\Pages\_ViewStart.cshtml

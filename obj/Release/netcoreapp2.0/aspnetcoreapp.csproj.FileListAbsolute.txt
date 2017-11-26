@@ -1,0 +1,11 @@
+C:\Users\craig\Desktop\aspnetcoreapp\bin\Release\netcoreapp2.0\aspnetcoreapp.deps.json
+C:\Users\craig\Desktop\aspnetcoreapp\bin\Release\netcoreapp2.0\aspnetcoreapp.runtimeconfig.json
+C:\Users\craig\Desktop\aspnetcoreapp\bin\Release\netcoreapp2.0\aspnetcoreapp.runtimeconfig.dev.json
+C:\Users\craig\Desktop\aspnetcoreapp\bin\Release\netcoreapp2.0\aspnetcoreapp.dll
+C:\Users\craig\Desktop\aspnetcoreapp\bin\Release\netcoreapp2.0\aspnetcoreapp.pdb
+C:\Users\craig\Desktop\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.csprojResolveAssemblyReference.cache
+C:\Users\craig\Desktop\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\craig\Desktop\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\Users\craig\Desktop\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.AssemblyInfo.cs
+C:\Users\craig\Desktop\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.dll
+C:\Users\craig\Desktop\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.pdb
